@@ -9,12 +9,8 @@ age, gender, security number, region category, membership,
 joining date, joined through referral, referral ID, preferred offer types, medium of operation, internet option, last_visit_time, 
 days_since_last_login, average time spent, average transaction value, average A large amount of missing values needs to be handled. 
 
-To test around the function we write, In Part A, we use a different simple data set for e-commerce.
-E-commerce: There are in total 500 observations and 6 columns in this dataset, except for the first column, which is a number indicator. The dataset contains five continuous features: Average Session Length, Time on App, Time on Website, Length of Membership, and Yearly Amount Spent 
-
 
 ### Study Objective:
-
 1: We are interested in finding out whether members of different memberships could be grouped by given features or a subset of them. There are six classes of memberships: no membership, basic membership, silver membership, gold membership, platinum membership, and premium membership. 
 2: Discover the characteristics of each cluster to gain insights into customer behaviors to facilitate the company’s further actions to improve the marketing or promotion strategy. 
 
